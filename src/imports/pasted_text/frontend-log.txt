@@ -1,0 +1,516 @@
+ Running frontend commit 790ffa2f1f123c9acb34b5fe5e90a1d8a9400b68
+vendor-core-f97691b5f390a9d7.min.js.br:54 Statsig is not ready to log exposures, will retry in 1 seconds
+(anonymous) @ vendor-core-f97691b5f390a9d7.min.js.br:54
+browser-intake-datadoghq.com/api/v2/rum:1  Failed to load resource: the server responded with a status of 405 (Method Not Allowed)
+vendor-core-f97691b5f390a9d7.min.js.br:54 [import] git: 84f11418a4c6677461014afcb903e91d0b6290bb, stamp: 6D8AC5DC1AC335B8
+vendor-core-f97691b5f390a9d7.min.js.br:54 Autosave Changes not available or already claimed by another tab undefined
+vendor-core-f97691b5f390a9d7.min.js.br:54 [Fullscreen] Booting... (emscripten version 4.0.21)
+vendor-core-f97691b5f390a9d7.min.js.br:54 [GPU] graphicsAPI:"WebGPU", vendor:"Google Inc. (Apple)" renderer:"ANGLE (Apple, ANGLE Metal Renderer: Apple M2, Unspecified Version)" deviceArchitecture:"metal-3" deviceDescription:"" webGPUDevice:"" webGPUVendor:"apple" bindings:"emdawnwebgpu"
+vendor-core-f97691b5f390a9d7.min.js.br:54 [Fullscreen] Ready in 113.3ms
+vendor-core-f97691b5f390a9d7.min.js.br:54 [FullscreenApp] calling setEditorTheme and setting preference light
+vendor-core-f97691b5f390a9d7.min.js.br:54 [MultiplayerSession] connecting to wss://www.figma.com/api/multiplayer/ETScl8qMoQ8rg3HmFxCs3R?role=editor&tracking_session_id=tnevF52tJwKoMSWx&version=164&recentReload=0&file-load-streaming-compression&user-id=1420322870936667376&client_release=790ffa2f1f123c9acb34b5fe5e90a1d8a9400b68
+vendor-core-f97691b5f390a9d7.min.js.br:54 [MultiplayerSession] Joining file version 106 (initial load)
+vendor-core-f97691b5f390a9d7.min.js.br:54 [FullscreenApp] calling setEditorTheme and setting preference light
+vendor-core-f97691b5f390a9d7.min.js.br:54 Loaded 0 scripts (0b), 0 from cache (0b)
+vendor-core-f97691b5f390a9d7.min.js.br:63 [Violation] Permissions policy violation: unload is not allowed in this document.
+(anonymous) @ vendor-core-f97691b5f390a9d7.min.js.br:63
+vendor-core-f97691b5f390a9d7.min.js.br:54 [Fullscreen] loadtime=5.71s maxmem=12070612
+vendor-core-f97691b5f390a9d7.min.js.br:54 [devtools] Initialized LS
+/api/plans/ecd90479-6db6-4bb9-91e3-b087bac68469/npm_private_registry/scopes:1  Failed to load resource: the server responded with a status of 404 ()
+vendor-core-f97691b5f390a9d7.min.js.br:54 [devtools] Initialized LS
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+Cloud-Gravity-Score-…eF50AzCuLJ0qYFB-0:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+vendor-core-f97691b5f390a9d7.min.js.br:54 [MultiplayerSession] connecting to wss://www.figma.com/api/multiplayer/ETScl8qMoQ8rg3HmFxCs3R?role=editor&tracking_session_id=tnevF52tJwKoMSWx&version=164&recentReload=0&file-load-streaming-compression=&user-id=1420322870936667376&client_release=790ffa2f1f123c9acb34b5fe5e90a1d8a9400b68&reconnect-key=2f0c54492cd8acc7d75d9326748a8ea1972958d2&reconnect-sequence-number=305&initialFileVersion=106&previousLoadMode=full&incremental-loading-validation=0
+vendor-core-f97691b5f390a9d7.min.js.br:54 [MultiplayerSession] Joining file version 106 (skip_reload reconnect)
+vendor-core-f97691b5f390a9d7.min.js.br:54 Too many elapsed hits of react since last report
+(anonymous) @ vendor-core-f97691b5f390a9d7.min.js.br:54
+/api/rev/ETScl8qMoQ8rg3HmFxCs3R/code_snapshot/15583c5b88a7ee5140096d18d704bd9e55be62f7b1e5aaa3abeec9af3610e847:1  Failed to load resource: the server responded with a status of 404 ()
+vendor-core-f97691b5f390a9d7.min.js.br:54 Failed to fetch snapshot files: w: XHR for "/api/rev/ETScl8qMoQ8rg3HmFxCs3R/code_snapshot/15583c5b88a7ee5140096d18d704bd9e55be62f7b1e5aaa3abeec9af3610e847" failed with status 404
+    at N (6047-bcf4dc21e28e19f6.min.js.br:1382:11140)
+    at async Object.O [as get] (6047-bcf4dc21e28e19f6.min.js.br:1382:11522)
+    at async 7376-b4dbcd37566c5422.min.js.br:3:40858
+    at async 7376-b4dbcd37566c5422.min.js.br:14:78589
+    at async 6632-0a533429fd7f2285.min.js.br:3:276
+    at async v (7376-b4dbcd37566c5422.min.js.br:14:78009)
+    at async 7376-b4dbcd37566c5422.min.js.br:14:60658
+(anonymous) @ vendor-core-f97691b5f390a9d7.min.js.br:54
+Cloud-Gravity-Score-Tool?p=f&t=reF50AzCuLJ0qYFB-0:1 Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.
+Element with focus: <div.vvqzc70 _1kdzox90 _1kdzox94>
+Ancestor with aria-hidden: <div.web_stacking--layer--LtFya web_stacking--nonStaticLayer--JqZiG> <div class=​"web_stacking--layer--LtFya web_stacking--nonStaticLayer--JqZiG">​</div>​
+ 11:42:21 PM [vite] (client) hmr update /src/app/components/GravityScoreTool.tsx, /src/styles/index.css
+ 11:42:24 PM [vite] (client) hmr invalidate /src/app/components/GravityScoreTool.tsx Could not Fast Refresh ("WORKLOAD_CATEGORIES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+ 11:42:24 PM [vite] (client) hmr update /src/styles/index.css, /src/app/App.tsx
+ 11:42:32 PM [vite] (client) hmr update /src/app/components/GravityScoreTool.tsx, /src/styles/index.css
+ 11:42:34 PM [vite] (client) hmr invalidate /src/app/components/GravityScoreTool.tsx Could not Fast Refresh ("WORKLOAD_CATEGORIES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+ 11:42:34 PM [vite] (client) hmr update /src/styles/index.css, /src/app/App.tsx
+ 11:42:38 PM [vite] (client) hmr update /src/app/components/GravityScoreTool.tsx, /src/styles/index.css
+ 11:42:40 PM [vite] (client) hmr invalidate /src/app/components/GravityScoreTool.tsx Could not Fast Refresh ("WORKLOAD_CATEGORIES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+ 11:42:40 PM [vite] (client) hmr update /src/styles/index.css, /src/app/App.tsx
+ [CGF Import] Headers found: Array(10)
+ [CGF Import] First row raw values: Object
+ Warning: Encountered two children with the same key, `null`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. Component Stack
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/svg
+    at Surface (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:6061:25)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ChartLayoutContextProvider2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:25517:28)
+    at CategoricalChartWrapper2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:30799:7)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/CategoricalChart2
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:9275:21
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/main
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at GravityScoreTool (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/components/GravityScoreTool.tsx?t=1781134958473:986:36)
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at App (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/App.tsx?t=1781134958473:38:35)
+    at b0 (code_components_preview_iframe-11a71fc73d98126e.min.js.br:751:4559)
+    at W (code_components_preview_iframe-11a71fc73d98126e.min.js.br:995:13925)
+    at od (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1049:25801)
+    at DE (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1072:14340)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at vo (code_components_preview_iframe-11a71fc73d98126e.min.js.br:753:2690)
+    at RV (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:435587)
+    at CC (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:458387)
+    at In (code_components_preview_iframe-11a71fc73d98126e.min.js.br:736:44293)
+    at yZ (code_components_preview_iframe-11a71fc73d98126e.min.js.br:724:4228)
+d @ code_components_preview_iframe-11a71fc73d98126e.min.js.br:17
+ Warning: Encountered two children with the same key, `null`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. Component Stack
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/svg
+    at Surface (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:6061:25)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ChartLayoutContextProvider2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:25517:28)
+    at CategoricalChartWrapper2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:30799:7)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/CategoricalChart2
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:9275:21
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/main
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at GravityScoreTool (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/components/GravityScoreTool.tsx?t=1781134958473:986:36)
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at App (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/App.tsx?t=1781134958473:38:35)
+    at b0 (code_components_preview_iframe-11a71fc73d98126e.min.js.br:751:4559)
+    at W (code_components_preview_iframe-11a71fc73d98126e.min.js.br:995:13925)
+    at od (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1049:25801)
+    at DE (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1072:14340)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at vo (code_components_preview_iframe-11a71fc73d98126e.min.js.br:753:2690)
+    at RV (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:435587)
+    at CC (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:458387)
+    at In (code_components_preview_iframe-11a71fc73d98126e.min.js.br:736:44293)
+    at yZ (code_components_preview_iframe-11a71fc73d98126e.min.js.br:724:4228)
+d @ code_components_preview_iframe-11a71fc73d98126e.min.js.br:17
+ Warning: Encountered two children with the same key, `null`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. Component Stack
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/svg
+    at Surface (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:6061:25)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ChartLayoutContextProvider2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:25517:28)
+    at CategoricalChartWrapper2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:30799:7)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/CategoricalChart2
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:9275:21
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/main
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at GravityScoreTool (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/components/GravityScoreTool.tsx?t=1781134958473:986:36)
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at App (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/App.tsx?t=1781134958473:38:35)
+    at b0 (code_components_preview_iframe-11a71fc73d98126e.min.js.br:751:4559)
+    at W (code_components_preview_iframe-11a71fc73d98126e.min.js.br:995:13925)
+    at od (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1049:25801)
+    at DE (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1072:14340)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at vo (code_components_preview_iframe-11a71fc73d98126e.min.js.br:753:2690)
+    at RV (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:435587)
+    at CC (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:458387)
+    at In (code_components_preview_iframe-11a71fc73d98126e.min.js.br:736:44293)
+    at yZ (code_components_preview_iframe-11a71fc73d98126e.min.js.br:724:4228)
+d @ code_components_preview_iframe-11a71fc73d98126e.min.js.br:17
+ Warning: Encountered two children with the same key, `null`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. Component Stack
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/svg
+    at Surface (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:6061:25)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ChartLayoutContextProvider2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:25517:28)
+    at CategoricalChartWrapper2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:30799:7)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/CategoricalChart2
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:9275:21
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/main
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at GravityScoreTool (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/components/GravityScoreTool.tsx?t=1781134958473:986:36)
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at App (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/App.tsx?t=1781134958473:38:35)
+    at b0 (code_components_preview_iframe-11a71fc73d98126e.min.js.br:751:4559)
+    at W (code_components_preview_iframe-11a71fc73d98126e.min.js.br:995:13925)
+    at od (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1049:25801)
+    at DE (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1072:14340)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at vo (code_components_preview_iframe-11a71fc73d98126e.min.js.br:753:2690)
+    at RV (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:435587)
+    at CC (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:458387)
+    at In (code_components_preview_iframe-11a71fc73d98126e.min.js.br:736:44293)
+    at yZ (code_components_preview_iframe-11a71fc73d98126e.min.js.br:724:4228)
+d @ code_components_preview_iframe-11a71fc73d98126e.min.js.br:17
+ Warning: Encountered two children with the same key, `null`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. Component Stack
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/svg
+    at Surface (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:6061:25)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ChartLayoutContextProvider2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:25517:28)
+    at CategoricalChartWrapper2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:30799:7)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/CategoricalChart2
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:9275:21
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/main
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at GravityScoreTool (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/components/GravityScoreTool.tsx?t=1781134958473:986:36)
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at App (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/App.tsx?t=1781134958473:38:35)
+    at b0 (code_components_preview_iframe-11a71fc73d98126e.min.js.br:751:4559)
+    at W (code_components_preview_iframe-11a71fc73d98126e.min.js.br:995:13925)
+    at od (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1049:25801)
+    at DE (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1072:14340)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at vo (code_components_preview_iframe-11a71fc73d98126e.min.js.br:753:2690)
+    at RV (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:435587)
+    at CC (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:458387)
+    at In (code_components_preview_iframe-11a71fc73d98126e.min.js.br:736:44293)
+    at yZ (code_components_preview_iframe-11a71fc73d98126e.min.js.br:724:4228)
+d @ code_components_preview_iframe-11a71fc73d98126e.min.js.br:17
+ Warning: Encountered two children with the same key, `null`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. Component Stack
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/svg
+    at Surface (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:6061:25)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ChartLayoutContextProvider2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:25517:28)
+    at CategoricalChartWrapper2 (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:30799:7)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/CategoricalChart2
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/node_modules/.vite/deps/recharts.js?v=a34e216a:9275:21
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/main
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at GravityScoreTool (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/components/GravityScoreTool.tsx?t=1781134958473:986:36)
+    at code_components_preview_iframe-11a71fc73d98126e.min.js.br:355:5054
+    at FGCmp (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/@id/fginspector:3:55)
+    at App (ta-01ktsxgxtag7xg7f27my8869fj-1380-vv55wtse54aheniwpxjte1j7v.makeproxy-m.figma.site/src/app/App.tsx?t=1781134958473:38:35)
+    at b0 (code_components_preview_iframe-11a71fc73d98126e.min.js.br:751:4559)
+    at W (code_components_preview_iframe-11a71fc73d98126e.min.js.br:995:13925)
+    at od (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1049:25801)
+    at DE (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1072:14340)
+    at 3de8e84a-a03f-45ee-8658-4bd853f4f159-v3-figmaiframepreview.figma.site/div
+    at vo (code_components_preview_iframe-11a71fc73d98126e.min.js.br:753:2690)
+    at RV (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:435587)
+    at CC (code_components_preview_iframe-11a71fc73d98126e.min.js.br:1056:458387)
+    at In (code_components_preview_iframe-11a71fc73d98126e.min.js.br:736:44293)
+    at yZ (code_components_preview_iframe-11a71fc73d98126e.min.js.br:724:4228)
+d @ code_components_preview_iframe-11a71fc73d98126e.min.js.br:17
+vendor-core-f97691b5f390a9d7.min.js.br:54 [MultiplayerSession] connecting to wss://www.figma.com/api/multiplayer/ETScl8qMoQ8rg3HmFxCs3R?role=editor&tracking_session_id=tnevF52tJwKoMSWx&version=164&recentReload=0&file-load-streaming-compression=&user-id=1420322870936667376&client_release=790ffa2f1f123c9acb34b5fe5e90a1d8a9400b68&reconnect-key=2f0c54492cd8acc7d75d9326748a8ea1972958d2&reconnect-sequence-number=312&initialFileVersion=106&previousLoadMode=full&incremental-loading-validation=0
+vendor-core-f97691b5f390a9d7.min.js.br:54 [MultiplayerSession] Joining file version 106 (skip_reload reconnect)
