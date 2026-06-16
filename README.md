@@ -1,7 +1,7 @@
 
-  # Cloud Gravity Score Tool
+  # Workload Placement
 
-  This is a code bundle for Cloud Gravity Score Tool. The original project is available at https://www.figma.com/design/ETScl8qMoQ8rg3HmFxCs3R/Cloud-Gravity-Score-Tool.
+  This is a code bundle for Workload Placement. The original project is available at https://www.figma.com/design/ETScl8qMoQ8rg3HmFxCs3R/Workload-Placement.
 
   ## Running the code
 
