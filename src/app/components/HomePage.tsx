@@ -28,7 +28,7 @@ const WORKLOAD_CATEGORIES = [
 ] as const;
 
 interface ImportRowBase {
-  name: string; owner: string; tier: string; workloadCategory: string; description: string;
+  name: string; owner: string; tier: string; workloadCategory: string; currentPlatform: string; description: string;
   scores: { businessValue: number; cloudReadiness: number; complexity: number; dependencies: number };
   valid: boolean; errors: string[];
 }
@@ -78,10 +78,17 @@ export function HomePage({ onLaunch }: HomePageProps) {
         if (!dp) errors.push("Invalid Dependencies (1–5)");
         const rawCategory = String(row["Workload Category"] ?? row["WorkloadCategory"] ?? row["Category"] ?? "").trim();
         const workloadCategory = (WORKLOAD_CATEGORIES as readonly string[]).includes(rawCategory) ? rawCategory : WORKLOAD_CATEGORIES[0];
+        const rawHosting = String(
+          row["Current Hosting Location"] ?? row["CurrentHostingLocation"] ?? row["Current Hosting"] ??
+          row["Hosting Location"] ?? row["Hosting Platform"] ?? row["Current Platform"] ?? row["CurrentPlatform"] ??
+          row["Current Cloud"] ?? row["Cloud Provider"] ?? row["Platform"] ?? row["Hosting"] ?? row["Location"] ?? ""
+        ).trim();
         return {
           name, owner: String(row["Owner"] ?? row["Division"] ?? "").trim(),
           tier: String(row["Tier"] ?? row["Application Tier"] ?? "Business").trim() || "Business",
-          workloadCategory, description: String(row["Description"] ?? "").trim(),
+          workloadCategory,
+          currentPlatform: rawHosting || "Unknown / Not specified",
+          description: String(row["Description"] ?? "").trim(),
           scores: { businessValue: bv || 3, cloudReadiness: cr || 3, complexity: cx || 3, dependencies: dp || 3 },
           valid: errors.length === 0, errors,
         };

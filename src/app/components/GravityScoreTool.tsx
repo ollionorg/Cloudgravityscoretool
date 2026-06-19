@@ -1027,8 +1027,11 @@ export function GravityScoreTool({ initialWeights, initialImportRows, initialImp
                       <select
                         style={{ width: "100%", padding: "10px 12px", borderRadius: 8, border: "1px solid var(--border)", background: "var(--card)", color: "var(--foreground)", fontSize: 14, outline: "none" }}
                         value={app.currentPlatform} onChange={e => setApp(a => ({ ...a, currentPlatform: e.target.value }))}>
+                        {(CURRENT_PLATFORM_OPTIONS as readonly string[]).includes(app.currentPlatform) ? null : (
+                          <option key={app.currentPlatform} value={app.currentPlatform}>{app.currentPlatform}</option>
+                        )}
                         {CURRENT_PLATFORM_OPTIONS.map(p => (
-                          <option key={p}>{p}</option>
+                          <option key={p} value={p}>{p}</option>
                         ))}
                       </select>
                     </div>
